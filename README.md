@@ -1,10 +1,10 @@
 ![Untitled912131311121](https://github.com/user-attachments/assets/6b1bc5c8-fc02-4c2a-a5bf-b53be0a6cb3e)
-LLW MD IS A NEW WHATSAPP BOT CREATED
-ON 2025 FEBRUARY!IT HAS MANY COOL 
-FEATURES AND YOU GOT THE CHANCE TO
-CHECK IT OUT!GITHUB FREE DEPLOY
-IS THE ONLY DEPLOYMENT METHOD
-THAT IS AVAILABLE NOW!🙃❤️
+# LLW MD IS A NEW WHATSAPP BOT CREATED
+# ON 2025 FEBRUARY!IT HAS MANY COOL 
+# FEATURES AND YOU GOT THE CHANCE TO
+# CHECK IT OUT!GITHUB FREE DEPLOY
+# IS THE ONLY DEPLOYMENT METHOD
+# THAT IS AVAILABLE NOW!🙃❤️ 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
@@ -85,7 +85,7 @@ THAT IS AVAILABLE NOW!🙃❤️
 
 ## ✅STEP 2-DEPLOY BY SESSION ID (qr or pair code available)
 
-<a href="https://mr-rashmika-official-web.vercel.app/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
+<a href="https://electric-carolann-newllw-6373e849.koyeb.app/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
 
 
 |---|---|---|---|---|---|---|---|---|---|---|---|
