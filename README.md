@@ -18,8 +18,7 @@ THAT IS AVAILABLE NOW!🙃❤️
 </p>
 <p align="center">
 <a href="https://github.com/LLWEDITZ/">
-    <img src="![Untitled912131311121](https://github.com/user-attachments/assets/2b3d0a50-7a4b-456e-86a6-5da7c35e3bd9)
-"  width="700px">
+    <img src="img here"  width="700px">
 </a>
 <hr>
 
@@ -31,7 +30,7 @@ THAT IS AVAILABLE NOW!🙃❤️
   
   </a>
   <a href="https://github.com/LLWEDITZ/LLW-MD/fork">
-    <img src="https://img.shields.io/github/forks/LLWEDITZ/LLW-MD?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/MRLLW/LLW-MD?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/LLWEDITZ/LLW-MD/stargazers">
